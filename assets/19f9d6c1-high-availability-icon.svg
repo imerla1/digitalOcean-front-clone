@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <defs>
+    <linearGradient id="high-availability-icon-a" x1="99.76%" x2="-1.468%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#0069FF" stop-opacity=".6"/>
+      <stop offset="100%" stop-color="#0069FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#FFF" points=".5 .5 40.5 .5 40.5 40.5 .5 40.5"/>
+    <circle cx="20.5" cy="20.5" r="10" fill="url(#high-availability-icon-a)"/>
+    <g transform="translate(1 1)">
+      <path stroke="#0069FF" d="M32.8,20.3 L38.3,20.3 M29,9.4 L32.6,5.7 M19.6,37.8 L19.6,33.4"/>
+      <path stroke="#120078" d="M1,20.3 L5.3,20.3"/>
+      <path stroke="#0069FF" d="M38.5,19.5 C38.5,20.1 38.5,20.7 38.4,21.3 C37.5,30.9 29.4,38.5 19.5,38.5 L18.1,38.5 C13.2,38.2 9,35.9 5.7,32.5"/>
+      <path stroke="#120078" d="M8.7,3.9 C3.7,7.3 0.5,13 0.5,19.5 C0.5,24.5 2.5,29.2 5.7,32.5 L6.5,33.3"/>
+      <circle cx="19.5" cy="19.5" r="3" fill="#FFF" stroke="#120078"/>
+      <polyline stroke="#120078" points=".5 3 9.3 3 9.3 11.8"/>
+      <path stroke="#0069FF" d="M38.5,19.5 C38.5,9.1 30.2,0.8 20.1,0.5 L19.8,0.5 L19.8,5.8"/>
+      <path stroke="#120078" d="M5.8 32.6L9.6 28.8M28.7 28.7L21.7 21.7"/>
+    </g>
+  </g>
+</svg>

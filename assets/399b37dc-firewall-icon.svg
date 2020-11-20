@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="43" viewBox="0 0 38 43">
+  <defs>
+    <linearGradient id="firewall-icon-a" x1="49.953%" x2="49.953%" y1="97.607%" y2="-29.302%">
+      <stop offset="0%" stop-color="#0069FF" stop-opacity=".6"/>
+      <stop offset="100%" stop-color="#0069FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="firewall-icon-b" x1="49.648%" x2="49.648%" y1="99.559%" y2="4.357%">
+      <stop offset="0%" stop-color="#0069FF" stop-opacity=".6"/>
+      <stop offset="100%" stop-color="#0069FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 2)">
+    <path fill="url(#firewall-icon-a)" d="M32.8,21 C32.1,20.4 31.1,20 30.1,20 L4.1,20 C1.9,20 0,21.9 0,24.2 L0,32.7 C0,33.8 0.4,34.8 1.1,35.5 L4.5,39.3 L36,23.6 L32.8,21 Z"/>
+    <g stroke="#120078" stroke-width="2" transform="translate(4 24)">
+      <path fill="#FFF" d="M0.6,13.4 L0.6,1.9 C0.6,1 1.6,0.2 2.7,0.2 L30.3,0.2 C31.5,0.2 32.4,1 32.4,1.9 L32.4,13.4 C32.4,14.3 31.4,15.1 30.3,15.1 L2.7,15.1 C1.6,15.1 0.6,14.4 0.6,13.4 Z"/>
+      <path d="M0.6,7.7 L32.5,7.7 M16.3,0.1 L16.3,8.1 M8.7,7.1 L8.7,15.2 M24.2,7.1 L24.2,15.2"/>
+    </g>
+    <path fill="#FFF" d="M19.4,0.2 C19.4,0.2 12.3,5.4 12.3,10.7 C12.3,14.6 15.5,17.8 19.4,17.8 C23.3,17.8 26.5,14.6 26.5,10.7 C26.5,5.7 19.4,0.2 19.4,0.2 Z"/>
+    <path fill="url(#firewall-icon-b)" d="M19.4,0.9 C19.4,0.9 12.8,5.8 12.8,10.7 C12.8,14.4 15.8,17.3 19.4,17.3 C23.1,17.3 26,14.3 26,10.7 C26,5.9 19.4,0.9 19.4,0.9 Z"/>
+    <path stroke="#0069FF" stroke-width="2" d="M19.4,0.2 C19.4,0.2 12.3,5.4 12.3,10.7 C12.3,14.6 15.5,17.8 19.4,17.8 C23.3,17.8 26.5,14.6 26.5,10.7 C26.5,5.7 19.4,0.2 19.4,0.2 Z"/>
+    <path fill="#FFF" stroke="#120078" stroke-width="2" d="M19.4,9.8 C19.4,9.8 16.8,11.7 16.8,13.7 C16.8,15.2 18,16.3 19.4,16.3 C20.9,16.3 22,15.1 22,13.7 C22,11.8 19.4,9.8 19.4,9.8 Z"/>
+  </g>
+</svg>

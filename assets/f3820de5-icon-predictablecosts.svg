@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" data-name="Layer 1" viewBox="0 0 45 45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #0069ff;
+      }
+
+      .cls-3 {
+        opacity: 0.3;
+      }
+
+      .cls-4 {
+        stroke: #120078;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="22.5" y1="42.39" x2="22.5" y2="22.93" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0069ff" stop-opacity="0.3"/>
+      <stop offset="0.36" stop-color="#0069ff" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#0069ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <title>Artboard 15 copy 4</title>
+  <g>
+    <g>
+      <polygon class="cls-1" points="39.91 42.83 13.2 42.83 12.96 33.88 5.09 34.12 5.09 2.83 39.91 2.83 39.91 42.83"/>
+      <polyline class="cls-2" points="4.68 33.95 12.91 33.95 12.91 42.17"/>
+      <rect class="cls-3" x="4.68" y="16.24" width="35.63" height="11.85"/>
+      <line class="cls-3" x1="40.32" y1="22.17" x2="4.68" y2="22.17"/>
+      <line class="cls-4" x1="10.87" y1="10.38" x2="19.35" y2="10.38"/>
+      <line class="cls-2" x1="27.1" y1="34.09" x2="33.88" y2="34.09"/>
+      <line class="cls-3" x1="13.72" y1="16.31" x2="13.72" y2="28.16"/>
+      <line class="cls-3" x1="22.89" y1="16.31" x2="22.89" y2="28.16"/>
+      <polyline class="cls-2" points="40.32 17.11 40.32 3.23 4.68 3.23 4.68 33.95 12.91 42.17 40.32 42.17 40.32 15.39"/>
+    </g>
+    <polyline class="cls-4" points="40.32 41.05 40.32 3.23 5.66 3.23"/>
+  </g>
+</svg>
